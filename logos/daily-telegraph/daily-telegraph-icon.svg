@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>daily-telegraph-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#237ABD" offset="0%"></stop>
+            <stop stop-color="#1566A5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M95.464119,58 L91.187029,76.3274809 L95.1810942,77.4612066 L95.4104419,77.0935997 C99.0661786,71.224902 105.132506,64.0882859 113.372756,62.7203328 L113.372756,111.085851 C113.372756,116.717882 111.640449,118.435549 105.960434,118.435549 L105.384625,118.435549 L105.384625,122.499558 L136.015551,122.499558 L136.015551,118.435549 L135.438929,118.435549 C132.50214,118.435549 130.705583,117.958962 129.616589,116.890299 C128.519461,115.813504 128.029861,114.023453 128.029861,111.085851 L128.029861,62.6650291 C135.194129,63.1952939 142.056666,70.3660682 146.152393,77.08872 L146.380927,77.4620199 L150.392071,76.3234145 L145.680685,58 L95.464119,58 Z M52.6444221,110.135116 L52.6444221,70.017167 C52.6444221,64.6071646 52.6444221,62.5828868 58.4082054,62.5828868 C67.4471059,62.5828868 76.6877022,65.68396 76.6877022,88.6927358 C76.6877022,114.595196 67.4031883,117.916671 59.31421,117.916671 C52.6444221,117.916671 52.6444221,116.575556 52.6444221,110.135116 L52.6444221,110.135116 Z M30,58 L30,62.0640081 L30.575809,62.0640081 C36.2558235,62.0640081 37.9873171,63.7808624 37.9873171,69.4128928 L37.9873171,111.085851 C37.9873171,116.717882 36.2558235,118.435549 30.575809,118.435549 L30,118.435549 L30,122.499558 L59.2312544,122.499558 C63.7385054,122.499558 69.0013023,122.226292 73.853388,120.207707 C84.977563,115.671178 92.1678563,104.182649 92.1678563,90.9406683 C92.1678563,76.456794 85.34273,65.3171664 73.4410502,60.3772455 C69.4233996,58.755546 64.9104557,58 59.2312544,58 L30,58 Z" id="path-2"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0156862745   0 0 0 0 0.282352941   0 0 0 0 0.48627451  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="daily-telegraph-icon">
+            <rect id="bg-fill" fill="url(#linearGradient-1)" x="0" y="0" width="180" height="180"></rect>
+            <g id="DT">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FEFEFE" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

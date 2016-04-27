@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>the-australian-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#DA291C" offset="0%"></stop>
+            <stop stop-color="#BE1104" offset="100%"></stop>
+        </linearGradient>
+        <path d="M132.485989,132.052 L132.485989,127.579375 C124.433827,126.556856 122.771334,124.894363 118.426704,113.646647 C110.118552,91.6617557 102.194385,69.4208752 94.0113515,47.052 L87.4951259,48.7116169 L61.2907235,114.414615 C57.0726502,125.150352 55.5381517,126.556856 47.1020053,127.579375 L46.9740106,132.052 L75.6074364,132.052 L75.6074364,127.579375 C66.2753269,126.427423 66.0193374,124.639811 67.8098254,118.504694 C69.3428858,113.389219 71.0039409,108.787162 72.4118828,104.826516 L96.9509157,104.826516 C98.8708365,110.067109 100.786443,115.435697 102.06639,119.268347 C104.111429,124.894363 103.471456,126.427423 95.9312723,127.579375 L95.9312723,132.052 L132.485989,132.052 Z M94.5247685,98.0514247 L74.5834786,98.0514247 C77.9084651,88.9753047 81.1025805,79.7740662 84.6806802,70.4433948 L85.0646643,70.4433948 L94.5247685,98.0514247 Z" id="path-2"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0549019608   0 0 0 0 0.0549019608   0 0 0 0 0.0549019608  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="the-australian-icon">
+            <rect id="bg-fill" fill="url(#linearGradient-1)" x="0" y="0" width="180" height="180"></rect>
+            <g id="A">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FEFEFE" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
