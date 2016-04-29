@@ -1,7 +1,7 @@
 # Typography
 
 ### Fonts
-![metro-styleguide-type-fonts](metro-styleguide-type-fonts.png)
+![metro-styleguide-type-fonts](examples/metro-styleguide-type-fonts.png)
 
 ### Type Styles
-![metro-styleguide-type-styles](metro-styleguide-type-styles.png)
+![metro-styleguide-type-styles](examples/metro-styleguide-type-styles.png)
