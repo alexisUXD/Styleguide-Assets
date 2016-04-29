@@ -9,8 +9,6 @@ Fixed Width
 
 ![1000 Grid](examples/1000.png)
 
-<img src="examples/1000.png" height="500px" /> 
-
 ### Responsive Grid
 
 ####Desktop Wide
