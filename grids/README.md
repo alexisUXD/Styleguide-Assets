@@ -7,7 +7,7 @@ During the transition to responsive Metro sites we will be required to support c
 1000px - 12 Column
 Fixed Width
 
-
+![1000 Grid](examples/1000.png)
 
 ### Responsive Grid
 
